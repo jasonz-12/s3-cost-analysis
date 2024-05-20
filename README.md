@@ -19,4 +19,7 @@
    * `file_path`, `file_size`, `file_timestamp`
 2. `main.py`
    * With all the relevant functions that helps analyze and plot the data
-   * `file_path = "s3_inventory.csv" \n main(file_path)`
+   * ```
+     file_path = "s3_inventory.csv"
+     main(file_path)
+     ```
